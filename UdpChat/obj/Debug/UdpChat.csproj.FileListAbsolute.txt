@@ -1,0 +1,10 @@
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\bin\Debug\UdpChat.exe.config
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\bin\Debug\UdpChat.exe
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\bin\Debug\UdpChat.pdb
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\obj\Debug\UdpChat.csprojAssemblyReference.cache
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\obj\Debug\UdpChat.Form1.resources
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\obj\Debug\UdpChat.Properties.Resources.resources
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\obj\Debug\UdpChat.csproj.GenerateResource.cache
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\obj\Debug\UdpChat.csproj.CoreCompileInputs.cache
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\obj\Debug\UdpChat.exe
+C:\Users\ШулякД\source\repos\UdpChat\UdpChat\obj\Debug\UdpChat.pdb
